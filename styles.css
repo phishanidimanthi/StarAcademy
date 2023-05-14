@@ -1,0 +1,135 @@
+.mainBody{
+    background-color: rgb(248, 230, 250);
+}
+
+.logo{
+    background-image: url("resourses/logo.png");
+    height: 100px;
+    width: 100;
+    background-size: contain;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    margin-left: 50px;
+}
+
+.fontNav{
+    font-size: 18px;
+    margin-left: 8px;
+    font-weight: bolder;
+}
+
+.navBar{
+    background-color: #e4ade1;
+    margin-bottom: 5px;
+}
+
+.signBtn1{
+    margin-left: 220px;
+    background-color: rgba(177, 112, 212, 0.936);
+    color: #6f0169;
+    border: #6f0169;
+}
+
+.signBtn2{
+    background-color: rgba(177, 112, 212, 0.936);
+    color: #6f0169;
+    border: #6f0169;
+}
+
+.dropItem:hover{
+    background-color: #e4ade1;
+}
+
+.about p{
+    font-size: x-large;
+}
+
+.imgDiv1{
+    background-color: #e8ecc8;
+    margin-inline: 20px;
+}
+
+.imgDiv:hover{
+    background-color: #ecc8ea;
+    transition-duration: 0.5s;
+    border-radius: 10%;
+    color: #6f0169;
+}
+
+.text1{
+    margin: 20px;
+    font-weight: 600;
+}
+
+.login{
+    background-color: #1c9282;
+    list-style: none;
+    color: black;
+    width: 100px;
+}
+
+.hrLog{
+    width: 110px;
+    color: #19b538; 
+}
+
+.logingDiv{
+    background-color: rgb(1, 72, 72);
+    border-top-left-radius: 10%;
+    margin-left: 20px;
+}
+
+.logingDiv:hover{
+    background-color: #036875;
+    transition-duration: 0.5s;
+}
+
+.newUserTxt{
+    color: #073f52;
+    margin-top: 100px;
+    margin-left: 90px;
+}
+
+.newUserSign{
+    background-color: #0e719e;
+    list-style: none;
+    color: black;
+    width: 100px;
+}
+
+.newUserBtn{
+    background-color: #035c68;
+    color: #b1d5f3;
+}
+
+.newUserBtn:hover{
+    background-color: #068a9c;
+    transition-duration: 0.5s;
+}
+
+.dropCourse{
+    width: 800px;
+    font-weight: 900;
+}
+
+.mainT{
+    color: #db25f7; 
+    font-size: 40px;
+    text-decoration: none;
+    margin-left: 500px;
+}
+
+.mainT:hover{
+    color: #ef60c2;
+    transition-duration: 0.5s;
+}
+
+.teacherProfile{
+    width: 200px;
+    height: 200px;
+    margin-left: 60px;
+}
+
+.teacherDetail{
+    margin-left: 300px;
+}
